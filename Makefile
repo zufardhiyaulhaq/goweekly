@@ -1,2 +1,2 @@
 run-scrapper:
-		ruby lib/rubyweekly/main.rb
+		ruby lib/goweekly/main.rb

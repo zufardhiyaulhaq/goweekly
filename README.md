@@ -1,7 +1,7 @@
-# Rubyweekly
-Get data from rubyweekly.com and send to telegram via bot.
+# Goweekly
+Get data from golangweekly.com and send to telegram via bot.
 
-### Rubyweekly Scrapper
+### Goweekly Scrapper
 ```
 export GITHUB_TOKEN=YOURTOKEN
 export REPOSITORY=USERNAME/REPOSITORY
@@ -9,7 +9,7 @@ export REPOSITORY=USERNAME/REPOSITORY
 make run-scrapper
 ```
 
-### Rubyweekly Telegram Bot
+### Goweekly Telegram Bot
 ```
 export GITHUB_TOKEN=YOURTOKEN
 export REPOSITORY=USERNAME/REPOSITORY
