@@ -1,3 +1,52 @@
 - name: 'goweekly #1'
   send: true
   content: []
+- name: 'goweekly #302'
+  send: false
+  content:
+  - title: I Want Off Mr. Golang's Wild Ride
+    url: https://golangweekly.com/link/84909/web
+  - title: A New Go API for Protocol Buffers
+    url: https://golangweekly.com/link/84910/web
+  - title: Do You Need Go, Docker or Kubernetes Training?
+    url: https://golangweekly.com/link/84911/web
+  - title: Is Go Duck-Typed?
+    url: https://golangweekly.com/link/84912/web
+  - title: How to Find Goroutines During Debugging
+    url: https://golangweekly.com/link/84913/web
+  - title: Software Engineer / Founding Teammate (Remote OK)
+    url: https://golangweekly.com/link/84914/web
+  - title: Golang Developer at X-Team (Remote)
+    url: https://golangweekly.com/link/84915/web
+  - title: Find a Dev Job Through Vettery
+    url: https://golangweekly.com/link/84916/web
+  - title: How to Use Git History to Identify Pain Points in a Project?
+    url: https://golangweekly.com/link/84917/web
+  - title: Track Latency and More in Go Apps to Quickly Optimize Performance
+    url: https://golangweekly.com/link/84918/web
+  - title: Building a Terminal Dashboard in 300 Lines of Go
+    url: https://golangweekly.com/link/84919/web
+  - title: What Versions of Go Support Which OpenBSD Releases
+    url: https://golangweekly.com/link/84920/web
+  - title: 'Implementing Raft: Part 3 - Persistence and Optimizations'
+    url: https://golangweekly.com/link/84922/web
+  - title: Interacting with a GraphQL API from Go
+    url: https://golangweekly.com/link/84923/web
+  - title: Interning Strings in Go
+    url: https://golangweekly.com/link/84924/web
+  - title: 'dque: A Fast, Embedded, Durable Queue'
+    url: https://golangweekly.com/link/84925/web
+  - title: 'goxygen: Generate a Go and MongoDB-Backed JS Project in Seconds'
+    url: https://golangweekly.com/link/84926/web
+  - title: 'Genji: A Document-Oriented, Embedded SQL Database'
+    url: https://golangweekly.com/link/84927/web
+  - title: 'The Ultimate Guide to Container Formats: Decrypting Video Technologies'
+    url: https://golangweekly.com/link/84928/web
+  - title: "⚠️ Monkey: Arbitrary Monkey Patching in Go"
+    url: https://golangweekly.com/link/84929/web
+  - title: 'Gonum 0.7: Numeric Libraries for Go'
+    url: https://golangweekly.com/link/84931/web
+  - title: 'goukv: An Abstraction Layer for Key-Value Stores'
+    url: https://golangweekly.com/link/84932/web
+  - title: 'go-imap 1.0.4: An IMAP4 Library for Clients and Servers'
+    url: https://golangweekly.com/link/84933/web
