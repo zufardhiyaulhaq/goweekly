@@ -2,7 +2,7 @@
   send: true
   content: []
 - name: 'goweekly #302'
-  send: true
+  send: false
   content:
   - title: I Want Off Mr. Golang's Wild Ride
     url: https://golangweekly.com/link/84909/web
