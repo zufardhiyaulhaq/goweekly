@@ -51,7 +51,7 @@
   - title: 'go-imap 1.0.4: An IMAP4 Library for Clients and Servers'
     url: https://golangweekly.com/link/84933/web
 - name: 'goweekly #303'
-  send: false
+  send: true
   content:
   - title: 'Database Basics: Creating a SQL Database System from Scratch'
     url: https://golangweekly.com/link/85306/web
