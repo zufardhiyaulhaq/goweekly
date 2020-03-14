@@ -50,3 +50,48 @@
     url: https://golangweekly.com/link/84932/web
   - title: 'go-imap 1.0.4: An IMAP4 Library for Clients and Servers'
     url: https://golangweekly.com/link/84933/web
+- name: 'goweekly #303'
+  send: false
+  content:
+  - title: 'Database Basics: Creating a SQL Database System from Scratch'
+    url: https://golangweekly.com/link/85306/web
+  - title: "▶  An Introduction to Rust from Go's Perspective"
+    url: https://golangweekly.com/link/85307/web
+  - title: Do You Need Go, Docker or Kubernetes Training?
+    url: https://golangweekly.com/link/85308/web
+  - title: Go Breaks Into The Top 10 in the TIOBE Index
+    url: https://golangweekly.com/link/85309/web
+  - title: 'Oragono 2.0: A Modern IRC Server Written in Go'
+    url: https://golangweekly.com/link/85310/web
+  - title: An Announcement to Go Event Organizers over COVID-19
+    url: https://golangweekly.com/link/85311/web
+  - title: Enjoy Building Scalable Infrastructure in Go? Stream Is Hiring
+    url: https://golangweekly.com/link/85312/web
+  - title: Senior Software Engineers (Go) - 100% Remote (UK/EU Only)
+    url: https://golangweekly.com/link/85313/web
+  - title: Find a Dev Job Through Vettery
+    url: https://golangweekly.com/link/85314/web
+  - title: go test -v Streaming Output in Go 1.14+
+    url: https://golangweekly.com/link/85315/web
+  - title: Working with Dates in Go
+    url: https://golangweekly.com/link/85316/web
+  - title: Why Are My Go Executable Files So Large?
+    url: https://golangweekly.com/link/85317/web
+  - title: How to Test CLI Apps Built with Cobra
+    url: https://golangweekly.com/link/85318/web
+  - title: Elixir-Style Actors in Go
+    url: https://golangweekly.com/link/85319/web
+  - title: Are Large Slices More Expensive Than Smaller Ones?
+    url: https://golangweekly.com/link/85320/web
+  - title: An Arkanoid Clone written in Go
+    url: https://golangweekly.com/link/85321/web
+  - title: 'Emoji: A Minimalistic Emoji Package'
+    url: https://golangweekly.com/link/85323/web
+  - title: Easily Build Beautiful Video Experiences into Your Go App
+    url: https://golangweekly.com/link/85324/web
+  - title: 'cli 2.2: A Fast Way to Build Go CLI Apps'
+    url: https://golangweekly.com/link/85325/web
+  - title: 'faas: Turn Any Go Function into an API?'
+    url: https://golangweekly.com/link/85327/web
+  - title: 'GoAWK: An AWK Interpreter Written in Go'
+    url: https://golangweekly.com/link/85328/web
