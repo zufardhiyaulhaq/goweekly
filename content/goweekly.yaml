@@ -96,7 +96,7 @@
   - title: 'GoAWK: An AWK Interpreter Written in Go'
     url: https://golangweekly.com/link/85328/web
 - name: 'goweekly #304'
-  send: false
+  send: true
   content:
   - title: Illustrated Tales of the Go Runtime Scheduler
     url: https://golangweekly.com/link/85630/web
