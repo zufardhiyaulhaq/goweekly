@@ -138,3 +138,6 @@
     url: https://golangweekly.com/link/85652/web
   - title: 'go-github: A Go Client for the GitHub v3 API'
     url: https://golangweekly.com/link/85653/web
+- name: 'goweekly '
+  send: false
+  content: []
