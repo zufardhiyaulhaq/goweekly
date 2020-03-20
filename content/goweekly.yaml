@@ -95,3 +95,46 @@
     url: https://golangweekly.com/link/85327/web
   - title: 'GoAWK: An AWK Interpreter Written in Go'
     url: https://golangweekly.com/link/85328/web
+- name: 'goweekly #304'
+  send: false
+  content:
+  - title: Illustrated Tales of the Go Runtime Scheduler
+    url: https://golangweekly.com/link/85630/web
+  - title: Building and Testing a REST API with Gorilla Mux and Postgres
+    url: https://golangweekly.com/link/85631/web
+  - title: Get the Most Out of Redis
+    url: https://golangweekly.com/link/85633/web
+  - title: 'GopherCon 2020 Update: Postponed, But Not Gone'
+    url: https://golangweekly.com/link/85636/web
+  - title: Maintaining Consistency in Codebases with go vet
+    url: https://golangweekly.com/link/85634/web
+  - title: How to Use Netlify to Deploy a Free Go Web App
+    url: https://golangweekly.com/link/85635/web
+  - title: Software Engineer / Founding Teammate (Remote OK)
+    url: https://golangweekly.com/link/85637/web
+  - title: Find a Dev Job Through Vettery
+    url: https://golangweekly.com/link/85638/web
+  - title: 'slack-term: A Slack Client for Your Terminal'
+    url: https://golangweekly.com/link/85639/web
+  - title: 'ntp: A Simple NTP Client Package for Go'
+    url: https://golangweekly.com/link/85640/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://golangweekly.com/link/85643/web
+  - title: 'pgzip: Parallel gzip Compression and Decompression'
+    url: https://golangweekly.com/link/85642/web
+  - title: 'go-app-paths: Retrieve Platform-Specific Paths'
+    url: https://golangweekly.com/link/85644/web
+  - title: 'go-immutable-radix 1.2: An Immutable Radix Tree Implementation'
+    url: https://golangweekly.com/link/85645/web
+  - title: 'LaTTe: Generate PDFs using LaTeX Templates and JSON'
+    url: https://golangweekly.com/link/85646/web
+  - title: 'c2go: A Tool for Transpiling C to Go'
+    url: https://golangweekly.com/link/85649/web
+  - title: The Go Security Checklist
+    url: https://golangweekly.com/link/85650/web
+  - title: 'gorush: A Push Notification Server Written in Go'
+    url: https://golangweekly.com/link/85651/web
+  - title: 'Wingo: A Fully-Featured Window Manager Written in Go'
+    url: https://golangweekly.com/link/85652/web
+  - title: 'go-github: A Go Client for the GitHub v3 API'
+    url: https://golangweekly.com/link/85653/web
