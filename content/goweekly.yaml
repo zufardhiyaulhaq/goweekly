@@ -141,3 +141,46 @@
 - name: 'goweekly '
   send: true
   content: []
+- name: 'goweekly #305'
+  send: false
+  content:
+  - title: Go, the Go Community, and the Pandemic
+    url: https://golangweekly.com/link/85960/web
+  - title: How to Use Diago to Diagnose CPU and Memory Usage in Go Programs
+    url: https://golangweekly.com/link/85961/web
+  - title: How to Use PostgreSQL Together with the Programming Language Golang (Go)
+    url: https://golangweekly.com/link/85962/web
+  - title: 'Announcing RxGo v2: Reactive Extensions for Go'
+    url: https://golangweekly.com/link/85963/web
+  - title: 'typex: Examine Go Type Structures, Interfaces and Transitive Dependencies'
+    url: https://golangweekly.com/link/85966/web
+  - title: Find a Dev Job Through Vettery
+    url: https://golangweekly.com/link/85967/web
+  - title: Enjoy Building Scalable Infrastructure in Go? Stream Is Hiring
+    url: https://golangweekly.com/link/85968/web
+  - title: Quickly Find Rust Program Bottlenecks Online Using a Go Tool
+    url: https://golangweekly.com/link/85969/web
+  - title: Object Fingerprinting for Efficient Data Ingestion
+    url: https://golangweekly.com/link/85970/web
+  - title: Video Streaming for Go
+    url: https://golangweekly.com/link/85971/web
+  - title: Working with Postgres Transactions in Go
+    url: https://golangweekly.com/link/85972/web
+  - title: How Does Monzo Keep 1,600 Microservices Spinning?
+    url: https://golangweekly.com/link/85973/web
+  - title: 'Gopher2600: An Atari VCS Emulator'
+    url: https://golangweekly.com/link/85974/web
+  - title: 'ION: A Distributed Real-Time Communications (RTC) System'
+    url: https://golangweekly.com/link/85975/web
+  - title: 'lmdrouter: A Go HTTP Router for AWS API Gateway-Invoked Lambda Functions'
+    url: https://golangweekly.com/link/85976/web
+  - title: 'tube: A YouTube-like Video Sharing App'
+    url: https://golangweekly.com/link/85977/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://golangweekly.com/link/85978/web
+  - title: 'Logrus 1.5: A Feature Rich Structured Logger'
+    url: https://golangweekly.com/link/85979/web
+  - title: 'Gold: A Reinforcement Learning Library'
+    url: https://golangweekly.com/link/85980/web
+  - title: 'Duit: A Simple Money Tracker, Built with Go and Mithril.js'
+    url: https://golangweekly.com/link/85981/web
