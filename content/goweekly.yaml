@@ -142,7 +142,7 @@
   send: true
   content: []
 - name: 'goweekly #305'
-  send: false
+  send: true
   content:
   - title: Go, the Go Community, and the Pandemic
     url: https://golangweekly.com/link/85960/web
