@@ -185,7 +185,7 @@
   - title: 'Duit: A Simple Money Tracker, Built with Go and Mithril.js'
     url: https://golangweekly.com/link/85981/web
 - name: 'goweekly #306'
-  send: false
+  send: true
   content:
   - title: Running Go in the Browser with WebAssembly and TinyGo
     url: https://golangweekly.com/link/86307/web
