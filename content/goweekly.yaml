@@ -184,3 +184,54 @@
     url: https://golangweekly.com/link/85980/web
   - title: 'Duit: A Simple Money Tracker, Built with Go and Mithril.js'
     url: https://golangweekly.com/link/85981/web
+- name: 'goweekly #306'
+  send: false
+  content:
+  - title: Running Go in the Browser with WebAssembly and TinyGo
+    url: https://golangweekly.com/link/86307/web
+  - title: Some Go Quirks
+    url: https://golangweekly.com/link/86309/web
+  - title: Get Better Insight into Redis with RedisGreen
+    url: https://golangweekly.com/link/86308/web
+  - title: GoLand 2020.1 Reaches Beta
+    url: https://golangweekly.com/link/86310/web
+  - title: How to Programatically Generate Gorgeous Social Media Images
+    url: https://golangweekly.com/link/86311/web
+  - title: A Collection of 100+ Popular LeetCode Problems Solved in Go
+    url: https://golangweekly.com/link/86319/web
+  - title: Enjoy Building Scalable Infrastructure in Go? Stream Is Hiring
+    url: https://golangweekly.com/link/86312/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/86313/web
+  - title: Building a Reddit Bot in Go with Mira
+    url: https://golangweekly.com/link/86314/web
+  - title: 'Logging in Go: Choosing a System and Using it'
+    url: https://golangweekly.com/link/86316/web
+  - title: Choosing Between Rust or Go?
+    url: https://golangweekly.com/link/86317/web
+  - title: The Go Security Checklist
+    url: https://golangweekly.com/link/86318/web
+  - title: "▶  Developing Applications with Go and MongoDB"
+    url: https://golangweekly.com/link/86321/web
+  - title: Why I'm Switching to JavaScript from Go
+    url: https://golangweekly.com/link/86356/web
+  - title: 'progressbar 3.0: A Basic Thread-Safe Progress Bar'
+    url: https://golangweekly.com/link/86322/web
+  - title: 'gomodifytags 1.4: A Go Tool to Modify struct Field Tags'
+    url: https://golangweekly.com/link/86323/web
+  - title: 'Pester: Increased Resiliency for Go''s net/http Client'
+    url: https://golangweekly.com/link/86324/web
+  - title: 'Molecule: A Library for Parsing Protobufs Efficiently'
+    url: https://golangweekly.com/link/86326/web
+  - title: 'Beta Launch: Code Performance Profiling - Find & Fix Bottlenecks'
+    url: https://golangweekly.com/link/86335/web
+  - title: 'Go-TinyTime: A ''Tiny'' Time Object'
+    url: https://golangweekly.com/link/86327/web
+  - title: 'RocketMQ Client Go 2.0: An Apache RocketMQ Client'
+    url: https://golangweekly.com/link/86329/web
+  - title: 'Chisel: A Fast TCP Tunnel Over HTTP'
+    url: https://golangweekly.com/link/86331/web
+  - title: 'Goro: A High-Level Machine Learning Library'
+    url: https://golangweekly.com/link/86332/web
+  - title: 'Gin 1.6.2: The Popular Go HTTP Web Framework'
+    url: https://golangweekly.com/link/86334/web
