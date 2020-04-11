@@ -236,5 +236,5 @@
   - title: 'Gin 1.6.2: The Popular Go HTTP Web Framework'
     url: https://golangweekly.com/link/86334/web
 - name: 'goweekly #307'
-  send: false
+  send: true
   content: []
