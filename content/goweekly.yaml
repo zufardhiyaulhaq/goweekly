@@ -238,3 +238,53 @@
 - name: 'goweekly #307'
   send: true
   content: []
+- name: 'goweekly #308'
+  send: false
+  content:
+  - title: 'Broccoli: Using Brotli Compression to Embed Static Files in Go'
+    url: https://golangweekly.com/link/86971/web
+  - title: How Thanos Would Program in Go
+    url: https://golangweekly.com/link/86973/web
+  - title: Introducing GoLand 2020.1
+    url: https://golangweekly.com/link/86976/web
+  - title: Understanding Bytes in Go by Building a TCP Protocol
+    url: https://golangweekly.com/link/86977/web
+  - title: 'Ebiten 1.11.0 Released: The Go 2D Gamedev Library'
+    url: https://golangweekly.com/link/86978/web
+  - title: 'Generics in Go: How They Work and How to Play With Them'
+    url: https://golangweekly.com/link/86980/web
+  - title: Senior Software Engineer (Go) – 100% Remote (UK/EU Only)
+    url: https://golangweekly.com/link/86981/web
+  - title: Golang Developer at X-Team (Remote)
+    url: https://golangweekly.com/link/86998/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/86999/web
+  - title: Statically Compiling Go Programs
+    url: https://golangweekly.com/link/86982/web
+  - title: How To Create Testable Go Code
+    url: https://golangweekly.com/link/86983/web
+  - title: The Go Security Checklist
+    url: https://golangweekly.com/link/86984/web
+  - title: Build Your Own Neural Network in Go
+    url: https://golangweekly.com/link/86985/web
+  - title: "'How I Built a Cloud Gaming System with WebRTC and Go'"
+    url: https://golangweekly.com/link/86986/web
+  - title: 'podcast-cli: A Podcast Player with a Terminal-Based Interface'
+    url: https://golangweekly.com/link/86987/web
+  - title: 'Godocgen: A Go Documentation Generator'
+    url: https://golangweekly.com/link/86988/web
+  - title: '3mux: An i3-inspired Terminal Multiplexer'
+    url: https://golangweekly.com/link/86990/web
+  - title: 'Micro 2.5: A Go Micro Services Development Framework'
+    url: https://golangweekly.com/link/86992/web
+  - title: 'Beta Launch: Code Performance Profiling - Find & Fix Bottlenecks'
+    url: https://golangweekly.com/link/87000/web
+  - title: 'Goph: A Native Go SSH Client'
+    url: https://golangweekly.com/link/86993/web
+  - title: 'GeoDB: A Persistent Geospatial Database with Geofencing and Google Maps
+      Support'
+    url: https://golangweekly.com/link/86994/web
+  - title: 'oneinfra: A ''Kubernetes as a Service'' Platform'
+    url: https://golangweekly.com/link/86995/web
+  - title: 'Gocorona: Track COVID-19 Statistics From Your Terminal'
+    url: https://golangweekly.com/link/86996/web
