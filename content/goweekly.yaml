@@ -239,7 +239,7 @@
   send: true
   content: []
 - name: 'goweekly #308'
-  send: false
+  send: true
   content:
   - title: 'Broccoli: Using Brotli Compression to Embed Static Files in Go'
     url: https://golangweekly.com/link/86971/web
