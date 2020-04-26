@@ -288,3 +288,50 @@
     url: https://golangweekly.com/link/86995/web
   - title: 'Gocorona: Track COVID-19 Statistics From Your Terminal'
     url: https://golangweekly.com/link/86996/web
+- name: 'goweekly #309'
+  send: false
+  content:
+  - title: Go Developer Survey 2019 Results
+    url: https://golangweekly.com/link/87296/web
+  - title: 'Fiber: An Express.js Inspired Web Framework for Go'
+    url: https://golangweekly.com/link/87297/web
+  - title: We Now Offer Remote Go, Docker or Kubernetes Training
+    url: https://golangweekly.com/link/87299/web
+  - title: A Comparison of Three Programming Languages for Bioinformatics
+    url: https://golangweekly.com/link/87300/web
+  - title: Go for Cloud — A Few Reflections for FaaS with AWS Lambda
+    url: https://golangweekly.com/link/87302/web
+  - title: Enjoy Building Scalable Infrastructure in Go? Stream Is Hiring
+    url: https://golangweekly.com/link/87304/web
+  - title: Golang Developer at X-Team (Remote)
+    url: https://golangweekly.com/link/87305/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/87306/web
+  - title: An Introduction to Debugging with Delve
+    url: https://golangweekly.com/link/87307/web
+  - title: Object Ordering in Go
+    url: https://golangweekly.com/link/87308/web
+  - title: How to Manage Database Timeouts and Cancellations in Go
+    url: https://golangweekly.com/link/87309/web
+  - title: The Go Security Checklist
+    url: https://golangweekly.com/link/87310/web
+  - title: 'Data Logging with Go: How to Store Customer Details Securely'
+    url: https://golangweekly.com/link/87340/web
+  - title: How to Install Go in FreeBSD in 5 Minutes
+    url: https://golangweekly.com/link/87312/web
+  - title: 'Fynedesk: A Fyne-Powered Full Desktop Environment for Linux/Unix'
+    url: https://golangweekly.com/link/87313/web
+  - title: 'Lockgate: A Cross-Platform Locking Library'
+    url: https://golangweekly.com/link/87315/web
+  - title: 'Pomerium: An Identity-Aware Secure Access Proxy'
+    url: https://golangweekly.com/link/87316/web
+  - title: 'Beta Launch: Code Performance Profiling - Find & Fix Bottlenecks'
+    url: https://golangweekly.com/link/87317/web
+  - title: 'Apex Log: A Structured Logging Package for Go'
+    url: https://golangweekly.com/link/87318/web
+  - title: 'mediary: Add Interceptors to the Go HTTP Client'
+    url: https://golangweekly.com/link/87320/web
+  - title: 'iso9660: A Go Library for Reading and Creating ISO9660 Images'
+    url: https://golangweekly.com/link/87321/web
+  - title: 'pxy: A Go Livestream Proxy from WebSockets to External RTMP Endpoints'
+    url: https://golangweekly.com/link/87322/web
