@@ -289,7 +289,7 @@
   - title: 'Gocorona: Track COVID-19 Statistics From Your Terminal'
     url: https://golangweekly.com/link/86996/web
 - name: 'goweekly #309'
-  send: false
+  send: true
   content:
   - title: Go Developer Survey 2019 Results
     url: https://golangweekly.com/link/87296/web
