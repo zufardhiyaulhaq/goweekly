@@ -336,7 +336,7 @@
   - title: 'pxy: A Go Livestream Proxy from WebSockets to External RTMP Endpoints'
     url: https://golangweekly.com/link/87322/web
 - name: 'goweekly #310'
-  send: false
+  send: true
   content:
   - title: An Interview with Go's Rob Pike
     url: https://golangweekly.com/link/87635/web
