@@ -390,3 +390,55 @@
     url: https://golangweekly.com/link/87661/web
   - title: 'Liftbridge 1.0: Lightweight, Fault-Tolerant Message Streams'
     url: https://golangweekly.com/link/87663/web
+- name: 'goweekly #311'
+  send: false
+  content:
+  - title: 'Caddy 2: The Go-Powered Web Server with Automatic TLS'
+    url: https://golangweekly.com/link/87948/web
+  - title: 'Rek: An Easy HTTP Client for Go'
+    url: https://golangweekly.com/link/87951/web
+  - title: Modern Redis Features with RedisGreen
+    url: https://golangweekly.com/link/87953/web
+  - title: Life Without Line Numbers
+    url: https://golangweekly.com/link/87954/web
+  - title: "▶  Discussing Black Hat Go"
+    url: https://golangweekly.com/link/88062/web
+  - title: Enjoy Building Scalable Infrastructure in Go? Stream Is Hiring
+    url: https://golangweekly.com/link/87955/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/87956/web
+  - title: Mid-Stack Inlining in Go
+    url: https://golangweekly.com/link/87957/web
+  - title: Asynchronous Preemption in Go 1.14
+    url: https://golangweekly.com/link/87958/web
+  - title: Why Are My Go Executable Files Larger Than My Source Code?
+    url: https://golangweekly.com/link/87962/web
+  - title: Accelerating Aggregate MD5 Hashing Up to 800% with AVX512
+    url: https://golangweekly.com/link/87963/web
+  - title: "▶  A Beginner's Guide to gRPC in Go"
+    url: https://golangweekly.com/link/87959/web
+  - title: Four Steps to Daemonize Your Go Programs
+    url: https://golangweekly.com/link/87961/web
+  - title: Go as a Scripting Language?
+    url: https://golangweekly.com/link/87965/web
+  - title: 'UUID 3.3: A Pure Go Implementation of UUIDs'
+    url: https://golangweekly.com/link/87966/web
+  - title: 'Reed-Solomon: A Reed-Solomon Erasure Coding Library'
+    url: https://golangweekly.com/link/87968/web
+  - title: 'ko 0.5: Build and Deploy Go Apps on Kubernetes'
+    url: https://golangweekly.com/link/87970/web
+  - title: Monitor the Health and Performance of Your Golang Apps with Datadog APM.
+      Free Trial
+    url: https://golangweekly.com/link/87975/web
+  - title: 'Tengo 2.2: A Fast Embeddable Script Language for Go'
+    url: https://golangweekly.com/link/87971/web
+  - title: 'UniPDF 3.7: A Library for Creating and Processing PDF Files'
+    url: https://golangweekly.com/link/87974/web
+  - title: 'Mockery: A Mock Code Generator for Go Interfaces'
+    url: https://golangweekly.com/link/87976/web
+  - title: 'Dynamo: An Expressive DynamoDB Library'
+    url: https://golangweekly.com/link/87977/web
+  - title: 'gasm: An Experimental WASM Virtual Machine for Gophers'
+    url: https://golangweekly.com/link/87973/web
+  - title: 'thdwb: A Homebrew Web Browser and Rendering Engine'
+    url: https://golangweekly.com/link/87972/web
