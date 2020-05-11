@@ -391,7 +391,7 @@
   - title: 'Liftbridge 1.0: Lightweight, Fault-Tolerant Message Streams'
     url: https://golangweekly.com/link/87663/web
 - name: 'goweekly #311'
-  send: false
+  send: true
   content:
   - title: 'Caddy 2: The Go-Powered Web Server with Automatic TLS'
     url: https://golangweekly.com/link/87948/web
