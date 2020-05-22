@@ -442,3 +442,56 @@
     url: https://golangweekly.com/link/87973/web
   - title: 'thdwb: A Homebrew Web Browser and Rendering Engine'
     url: https://golangweekly.com/link/87972/web
+- name: 'goweekly #312'
+  send: false
+  content:
+  - title: What's Coming in Go 1.15
+    url: https://golangweekly.com/link/88449/web
+  - title: "'Ensmallening' Go Binaries by Prohibiting Comparisons"
+    url: https://golangweekly.com/link/88451/web
+  - title: Find & Fix Code Performance Issues
+    url: https://golangweekly.com/link/88452/web
+  - title: 'go-elasticsearch: The Official Go Client for Elasticsearch'
+    url: https://golangweekly.com/link/88453/web
+  - title: 'immudb: A Lightweight, High-Speed Immutable Database'
+    url: https://golangweekly.com/link/88457/web
+  - title: Go 1.14.3 and Go 1.13.11 Released
+    url: https://golangweekly.com/link/88458/web
+  - title: Golang Developer at X-Team (Remote)
+    url: https://golangweekly.com/link/88460/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/88461/web
+  - title: Faking stdin and stdout in Go
+    url: https://golangweekly.com/link/88462/web
+  - title: A Beginner Friendly Introduction to Prometheus
+    url: https://golangweekly.com/link/88463/web
+  - title: How I Write My Unit Tests in Go Quickly
+    url: https://golangweekly.com/link/88465/web
+  - title: The Go Security Checklist
+    url: https://golangweekly.com/link/88466/web
+  - title: Building Uber’s Go Monorepo with Bazel
+    url: https://golangweekly.com/link/88467/web
+  - title: Getting My Head Around What Things Aren't Comparable in Go
+    url: https://golangweekly.com/link/88468/web
+  - title: 'Termdash: A Go Terminal Based Dashboard System'
+    url: https://golangweekly.com/link/88469/web
+  - title: 'goaction: Write GitHub Actions in Go'
+    url: https://golangweekly.com/link/88470/web
+  - title: Getting Started with OpenTelemetry in Go
+    url: https://golangweekly.com/link/88471/web
+  - title: 'Shotizam: Analyze The Size of Go Binaries'
+    url: https://golangweekly.com/link/88472/web
+  - title: 'Excelize 2.2: A Library for Reading and Writing Excel Files'
+    url: https://golangweekly.com/link/88473/web
+  - title: 'jsonparser 1.0: An Alternative JSON Parser for Go'
+    url: https://golangweekly.com/link/88476/web
+  - title: 'Squirrel 1.4.0: Fluent SQL Generation for Go'
+    url: https://golangweekly.com/link/88477/web
+  - title: 'sqlc 1.3.0: Generate Type Safe Go From SQL'
+    url: https://golangweekly.com/link/88478/web
+  - title: 'go-toml: Go Library for the TOML Format'
+    url: https://golangweekly.com/link/88480/web
+  - title: 'Profefe: Continuously Collect Profiling Data for Long-Term Postmortem Analysis'
+    url: https://golangweekly.com/link/88483/web
+  - title: 'Orchestra: A New Library to Manage Long Running Go Processes'
+    url: https://golangweekly.com/link/88475/web
