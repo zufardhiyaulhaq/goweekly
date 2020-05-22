@@ -443,7 +443,7 @@
   - title: 'thdwb: A Homebrew Web Browser and Rendering Engine'
     url: https://golangweekly.com/link/87972/web
 - name: 'goweekly #312'
-  send: false
+  send: true
   content:
   - title: What's Coming in Go 1.15
     url: https://golangweekly.com/link/88449/web
