@@ -496,7 +496,7 @@
   - title: 'Orchestra: A New Library to Manage Long Running Go Processes'
     url: https://golangweekly.com/link/88475/web
 - name: 'goweekly #314'
-  send: false
+  send: true
   content:
   - title: 'RobotGo 0.90: Native Cross-Platform GUI Automation'
     url: https://golangweekly.com/link/89263/web
