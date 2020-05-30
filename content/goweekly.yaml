@@ -495,3 +495,59 @@
     url: https://golangweekly.com/link/88483/web
   - title: 'Orchestra: A New Library to Manage Long Running Go Processes'
     url: https://golangweekly.com/link/88475/web
+- name: 'goweekly #314'
+  send: false
+  content:
+  - title: 'RobotGo 0.90: Native Cross-Platform GUI Automation'
+    url: https://golangweekly.com/link/89263/web
+  - title: Diamond Interface Composition in Go 1.14
+    url: https://golangweekly.com/link/89266/web
+  - title: Secure Your Go Application with Sqreen
+    url: https://golangweekly.com/link/89268/web
+  - title: 'Micro: A Go-Powered Terminal-Based Text Editor'
+    url: https://golangweekly.com/link/89269/web
+  - title: What Are Goroutines and How Big Are They?
+    url: https://golangweekly.com/link/89271/web
+  - title: Want to Build a Platform Ecosystem in Go?
+    url: https://golangweekly.com/link/89272/web
+  - title: Golang Developer at X-Team (Remote)
+    url: https://golangweekly.com/link/89274/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/89275/web
+  - title: Instrumentation in Go
+    url: https://golangweekly.com/link/89276/web
+  - title: Diving Into Go by Building a CLI Application
+    url: https://golangweekly.com/link/89277/web
+  - title: Go and CPU Caches
+    url: https://golangweekly.com/link/89278/web
+  - title: Find & Fix Code Performance Issues
+    url: https://golangweekly.com/link/89279/web
+  - title: A Book Review of Writing an Interpreter in Go
+    url: https://golangweekly.com/link/89280/web
+  - title: Optional JSON Fields in Go
+    url: https://golangweekly.com/link/89282/web
+  - title: Build a Go Application using OpenShift Pipelines
+    url: https://golangweekly.com/link/89283/web
+  - title: 'maybedoer: The Maybe Monoid for Go'
+    url: https://golangweekly.com/link/89284/web
+  - title: Immutability Patterns in Go
+    url: https://golangweekly.com/link/89285/web
+  - title: 'Introducing Athenadriver: An Open Source Amazon Athena Database Driver
+      for Go'
+    url: https://golangweekly.com/link/89286/web
+  - title: 'SDNS: A Lightweight, Fast Recursive DNS Server with DNSSEC Support'
+    url: https://golangweekly.com/link/89287/web
+  - title: 'go-git 5.1: An Extensible Git Implementation in Pure Go'
+    url: https://golangweekly.com/link/89289/web
+  - title: Optimize Your Golang Apps with End-To-End Tracing in One Place
+    url: https://golangweekly.com/link/89290/web
+  - title: A Collection of Technical Interview-Style Questions Solved with Go
+    url: https://golangweekly.com/link/89291/web
+  - title: 'go-mod-outdated: A Tool to Find Outdated Dependencies'
+    url: https://golangweekly.com/link/89292/web
+  - title: 'gopherdance: Some Dancing Gophers in Your Terminal'
+    url: https://golangweekly.com/link/89293/web
+  - title: 'Netris: A Multiplayer Tetris Clone'
+    url: https://golangweekly.com/link/89295/web
+  - title: Go-Powered Autopilot for Docking the SpaceX Dragon Capsule
+    url: https://golangweekly.com/link/89296/web
