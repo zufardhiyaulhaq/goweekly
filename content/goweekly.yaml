@@ -551,3 +551,56 @@
     url: https://golangweekly.com/link/89295/web
   - title: Go-Powered Autopilot for Docking the SpaceX Dragon Capsule
     url: https://golangweekly.com/link/89296/web
+- name: 'goweekly #315'
+  send: false
+  content:
+  - title: ZZT in Go (Using a Pascal-to-Go Converter)
+    url: https://golangweekly.com/link/89670/web
+  - title: GoLand 2020.2 Early Access Program Is Open
+    url: https://golangweekly.com/link/89673/web
+  - title: Find & Fix Code Performance Issues
+    url: https://golangweekly.com/link/89674/web
+  - title: "'The Go Compiler Needs to Be Smarter'?"
+    url: https://golangweekly.com/link/89675/web
+  - title: Writing Go CLIs With Just Enough Architecture
+    url: https://golangweekly.com/link/89676/web
+  - title: Bare Metal RISC-V Programming in Go
+    url: https://golangweekly.com/link/89677/web
+  - title: Want to Build a Platform Ecosystem in Go?
+    url: https://golangweekly.com/link/89678/web
+  - title: Enjoy Building Scalable Infrastructure in Go? Stream Is Hiring
+    url: https://golangweekly.com/link/89680/web
+  - title: Find A Job Through Vettery
+    url: https://golangweekly.com/link/89681/web
+  - title: How to Write a Lexer in Go
+    url: https://golangweekly.com/link/89682/web
+  - title: "▶  A Go RabbitMQ Beginners' Tutorial"
+    url: https://golangweekly.com/link/89683/web
+  - title: Getting Hands-On with io_uring from Go
+    url: https://golangweekly.com/link/89684/web
+  - title: The Go Security Checklist
+    url: https://golangweekly.com/link/89685/web
+  - title: Unicode Support in Go Source Code
+    url: https://golangweekly.com/link/89686/web
+  - title: A Subtle Trap When Formatting time.Time Values
+    url: https://golangweekly.com/link/89687/web
+  - title: Converting JSON to a Struct in Go
+    url: https://golangweekly.com/link/89688/web
+  - title: "▶  The Trouble with Databases"
+    url: https://golangweekly.com/link/89689/web
+  - title: Logging Without Losing Money or Context
+    url: https://golangweekly.com/link/89691/web
+  - title: Waiting on Goroutines
+    url: https://golangweekly.com/link/89692/web
+  - title: 'go-yaml: YAML Encoding, Decoding and Querying for Go'
+    url: https://golangweekly.com/link/89693/web
+  - title: 'Heimdall: An Enhanced HTTP Client for Go'
+    url: https://golangweekly.com/link/89694/web
+  - title: 'The Ultimate Guide to Container Formats: Decrypting Video Technologies'
+    url: https://golangweekly.com/link/89695/web
+  - title: 'Smocker: A Simple and Efficient HTTP Mock Server'
+    url: https://golangweekly.com/link/89696/web
+  - title: 'Oragono 2.1: A Modern IRC Server Written in Go'
+    url: https://golangweekly.com/link/89697/web
+  - title: 'DBCore: Code Generation Powered by Your Database'
+    url: https://golangweekly.com/link/89698/web
