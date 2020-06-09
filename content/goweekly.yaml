@@ -552,7 +552,7 @@
   - title: Go-Powered Autopilot for Docking the SpaceX Dragon Capsule
     url: https://golangweekly.com/link/89296/web
 - name: 'goweekly #315'
-  send: false
+  send: true
   content:
   - title: ZZT in Go (Using a Pascal-to-Go Converter)
     url: https://golangweekly.com/link/89670/web
