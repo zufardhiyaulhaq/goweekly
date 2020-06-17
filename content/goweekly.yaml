@@ -605,7 +605,7 @@
   - title: 'DBCore: Code Generation Powered by Your Database'
     url: https://golangweekly.com/link/89698/web
 - name: 'goweekly #316'
-  send: false
+  send: true
   content:
   - title: The VS Code Go Extension Joins the Go Project
     url: https://golangweekly.com/link/90112/web
