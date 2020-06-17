@@ -604,3 +604,56 @@
     url: https://golangweekly.com/link/89697/web
   - title: 'DBCore: Code Generation Powered by Your Database'
     url: https://golangweekly.com/link/89698/web
+- name: 'goweekly #316'
+  send: false
+  content:
+  - title: The VS Code Go Extension Joins the Go Project
+    url: https://golangweekly.com/link/90112/web
+  - title: Go 1.15 Beta 1 Released
+    url: https://golangweekly.com/link/90113/web
+  - title: Remote Instructor-Lead Go, Docker, Kubernetes, & Python Training
+    url: https://golangweekly.com/link/90118/web
+  - title: The Use of Some Problematic Words Replaced in Go
+    url: https://golangweekly.com/link/90119/web
+  - title: "▶  Phil Wadler on Featherweight Go and Go Generics"
+    url: https://golangweekly.com/link/90120/web
+  - title: Want to Build a Platform Ecosystem in Go?
+    url: https://golangweekly.com/link/90122/web
+  - title: Golang Developer at X-Team (Remote)
+    url: https://golangweekly.com/link/90124/web
+  - title: Find A Job Through Vettery
+    url: https://golangweekly.com/link/90125/web
+  - title: Communicating Between Python and Go with gRPC
+    url: https://golangweekly.com/link/90126/web
+  - title: 'Containerize Your Go Developer Environment: Part 1'
+    url: https://golangweekly.com/link/90127/web
+  - title: An Intro to Go for Non-Go Developers
+    url: https://golangweekly.com/link/90128/web
+  - title: Optimize Your Golang Applications In One Place With Datadog APM
+    url: https://golangweekly.com/link/90129/web
+  - title: Générer Un 'Flux' RSS en Go!
+    url: https://golangweekly.com/link/90130/web
+  - title: 'Fatih’s Question: Fun With json.Unmarshal'
+    url: https://golangweekly.com/link/90132/web
+  - title: Google Authentication with Goth
+    url: https://golangweekly.com/link/90133/web
+  - title: Exploring the Container Packages (list, ring, and heap)
+    url: https://golangweekly.com/link/90135/web
+  - title: "▶  How Does it Feel to Develop Critical Web APIs in Go?"
+    url: https://golangweekly.com/link/90136/web
+  - title: Handling Multidomain Requests with Simple Host Switch
+    url: https://golangweekly.com/link/90137/web
+  - title: 'bimg: Fast High Level Image Processing Powered by libvips'
+    url: https://golangweekly.com/link/90138/web
+  - title: 'GoFakeIt: A Random Fake Data Generator'
+    url: https://golangweekly.com/link/90140/web
+  - title: 'Colly 2.1: A Fast and Elegant Web Scraping Framework'
+    url: https://golangweekly.com/link/90143/web
+  - title: 'Beta Launch: Code Performance Profiling - Find & Fix Bottlenecks'
+    url: https://golangweekly.com/link/90145/web
+  - title: 'chess: Chess Package for Go'
+    url: https://golangweekly.com/link/90146/web
+  - title: 'LearnGo: A Large Collection of Go Examples, Exercises, and Quizzes'
+    url: https://golangweekly.com/link/90148/web
+  - title: 'Adagio: A Workflow Orchestrator'
+    url: https://golangweekly.com/link/90149/web
