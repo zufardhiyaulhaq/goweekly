@@ -658,7 +658,7 @@
   - title: 'Adagio: A Workflow Orchestrator'
     url: https://golangweekly.com/link/90149/web
 - name: 'goweekly #317'
-  send: false
+  send: true
   content:
   - title: The Next Step for Generics
     url: https://golangweekly.com/link/90476/web
