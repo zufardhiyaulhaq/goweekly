@@ -657,3 +657,57 @@
     url: https://golangweekly.com/link/90148/web
   - title: 'Adagio: A Workflow Orchestrator'
     url: https://golangweekly.com/link/90149/web
+- name: 'goweekly #317'
+  send: false
+  content:
+  - title: The Next Step for Generics
+    url: https://golangweekly.com/link/90476/web
+  - title: A Draft Design for Type Parameters
+    url: https://golangweekly.com/link/90478/web
+  - title: Find & Fix Code Performance Issues
+    url: https://golangweekly.com/link/90479/web
+  - title: 'Let''s Play with the Generics Draft Design: Building a Hashtable'
+    url: https://golangweekly.com/link/90480/web
+  - title: pkg.go.dev is Now Open Source
+    url: https://golangweekly.com/link/90481/web
+  - title: Enjoy Building Scalable Infrastructure In Go? Stream Is Hiring
+    url: https://golangweekly.com/link/90485/web
+  - title: Sr. Software Engineer at CrowdStrike (Remote)
+    url: https://golangweekly.com/link/90487/web
+  - title: Find a Job Through Vettery
+    url: https://golangweekly.com/link/90488/web
+  - title: Continuous Fuzzing with Go at Dgraph
+    url: https://golangweekly.com/link/90489/web
+  - title: A Concise Guide to the Latest Go Generics Draft Design
+    url: https://golangweekly.com/link/90491/web
+  - title: An Introduction to Producing and Consuming Kafka Messages in Go
+    url: https://golangweekly.com/link/90492/web
+  - title: "Builds Run Faster on Buildkite \U0001F3C3\U0001F3FD‍♀️\U0001F3C3"
+    url: https://golangweekly.com/link/90493/web
+  - title: 'Containers The Hard Way: Gocker: A Mini Docker Written in Go'
+    url: https://golangweekly.com/link/90494/web
+  - title: Evaluating Go's Package Management and Module Systems
+    url: https://golangweekly.com/link/90495/web
+  - title: How to Handle Errors in Go
+    url: https://golangweekly.com/link/90496/web
+  - title: Handling Go Modules Replacement Directive Version Lag and Fork Maintenance
+    url: https://golangweekly.com/link/90497/web
+  - title: A Toy Lisp 1.5 Interpreter Implemented in Go
+    url: https://golangweekly.com/link/90498/web
+  - title: 'Syncthing: A Go-Powered Continuous File Synchronization Tool'
+    url: https://golangweekly.com/link/90500/web
+  - title: 's4: An Interface for The Shamir Secret Sharing Algorithm'
+    url: https://golangweekly.com/link/90504/web
+  - title: 'Siggo: A Terminal UI for Signal Messenger'
+    url: https://golangweekly.com/link/90509/web
+  - title: CI/CD with Docker and Kubernetes eBook by Semaphore
+    url: https://golangweekly.com/link/90512/web
+  - title: 'awsls: A List Command for AWS Resources'
+    url: https://golangweekly.com/link/90513/web
+  - title: 'vSSH: Go Library to Execute Commands Over SSH at Scale'
+    url: https://golangweekly.com/link/90514/web
+  - title: 'VictoriaMetrics: A Scalable Time Series Database'
+    url: https://golangweekly.com/link/90515/web
+  - title: 'jqview: Simplest Possible Native GUI for Inspecting JSON Objects with
+      jq'
+    url: https://golangweekly.com/link/90516/web
