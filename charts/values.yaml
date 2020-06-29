@@ -19,7 +19,7 @@ image:
 github:
   token: "your_token"
   organization: "zufardhiyaulhaq"
-  repository: "goweekly"
+  repository: "community-ops"
   repository_path: "./manifest/golang-community/"
   branch: "master"
 

@@ -1,5 +1,4 @@
 ---
----
 apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
@@ -18,5 +17,5 @@ spec:
             image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
             imagePullPolicy: Always
             envFrom:
-          - secretRef:
-              name: {{ .Chart.Name }}-secret
+            - secretRef:
+                name: {{ .Chart.Name }}-secret
