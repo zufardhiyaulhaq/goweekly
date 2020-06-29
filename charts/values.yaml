@@ -1,0 +1,37 @@
+
+# define how many completed & failed pod jobs
+jobHistoryLimit: 1
+
+# define time to exec the cronjob
+cronSchedule: "0 0 * * 1"
+
+# image cronjob configuration
+image:
+  name: "goweekly"
+  repository: "zufardhiyaulhaq/goweekly"
+  tag: "latest"
+
+#############################
+# envoronment configuration #
+#############################
+
+# github configuration to store the CRDs
+github:
+  token: "your_token"
+  organization: "zufardhiyaulhaq"
+  repository: "goweekly"
+  repository_path: "./manifest/golang-community/"
+  branch: "master"
+
+# community name for CRDs
+community: "Golang Indonesia Community"
+
+# tag for CRDs
+tags: "weekly,golang"
+
+# namespace for CRDs
+namespace: "golang-community"
+
+# image for CRDs
+image_url: "https://trungtq.com/wp-content/uploads/2018/12/GO-3.png"
+

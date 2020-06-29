@@ -1,0 +1,11 @@
+---
+apiVersion: v1
+name: goweekly
+type: application
+version: 0.0.1
+appVersion: 0.0.1
+description: goweekly scrapper
+home: https://github.com/zufardhiyaulhaq/goweekly
+keywords:
+  - weekly
+  - goweekly
