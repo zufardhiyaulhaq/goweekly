@@ -49,6 +49,6 @@ func main() {
 		log.Fatal(err)
 	}
 
-	commitMessage := "Add" + newestWeeklyName
+	commitMessage := "Weekly: Add " + newestWeeklyName
 	CreateFile(handler, strings.ToLower(strings.ReplaceAll(newestWeeklyName, " ", "-"))+".yaml", commitMessage, crd)
 }
