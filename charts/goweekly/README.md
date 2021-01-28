@@ -1,5 +1,5 @@
-# Goweekly
-Get data from golangweekly.com and create Weekly CRDs based on community-operator & push to github
+# goweekly charts
+Helm chart for goweeklys
 
 ### Installing the charts
 ```
@@ -25,3 +25,5 @@ helm install zufardhiyaulhaq/goweekly --name-template goweekly -f values.yaml
 | jobHistoryLimit | int | `1` |  |
 | namespace | string | `"golang-community"` |  |
 | tags | string | `"weekly,golang"` |  |
+
+check & modify values.yaml for details
