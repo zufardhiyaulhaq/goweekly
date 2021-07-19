@@ -1,7 +1,7 @@
 package models
 
-type KubeweeklyNameNotFoundError struct{}
+type GoweeklyNameNotFoundError struct{}
 
-func (k *KubeweeklyNameNotFoundError) Error() string {
-	return "Kubeweekly name not found"
+func (k *GoweeklyNameNotFoundError) Error() string {
+	return "Goweekly name not found"
 }

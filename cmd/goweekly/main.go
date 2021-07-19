@@ -33,7 +33,7 @@ func main() {
 	}
 
 	githubRepository := github_repository.NewGithubRepository(settings)
-	kubeweeklyScrapper := golangweekly.NewGolangWeekly(URL)
+	weeklyScrapper := golangweekly.NewGolangWeekly(URL)
 
 	// get existing weekly from repository
 	files, err := githubRepository.GetFiles(repository.RepositoryOptions{
@@ -47,7 +47,7 @@ func main() {
 	}
 
 	// get newest weekly
-	name, err := kubeweeklyScrapper.GetName()
+	name, err := weeklyScrapper.GetName()
 	if err != nil {
 		contextLogger.Fatalln(err)
 	}
@@ -69,7 +69,7 @@ func main() {
 	}
 
 	// get articles
-	artiles, err := kubeweeklyScrapper.GetArticles()
+	artiles, err := weeklyScrapper.GetArticles()
 	if err != nil {
 		contextLogger.Fatalln(err)
 	}
