@@ -4,6 +4,14 @@ Get data from golang news and create Weekly CRDs based on community-operator and
 
 ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square) [![made with Go](https://img.shields.io/badge/made%20with-Go-brightgreen)](http://golang.org) [![Github master branch build](https://img.shields.io/github/workflow/status/zufardhiyaulhaq/goweekly/Master)](https://github.com/zufardhiyaulhaq/goweekly/actions/workflows/master.yml) [![GitHub issues](https://img.shields.io/github/issues/zufardhiyaulhaq/goweekly)](https://github.com/zufardhiyaulhaq/goweekly/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/zufardhiyaulhaq/goweekly)](https://github.com/zufardhiyaulhaq/goweekly/pulls)
 
+[![Bugs](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=bugs)](https://github.com/zufardhiyaulhaq/goweekly)
+[![Code Smells](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=code_smells)](https://github.com/zufardhiyaulhaq/goweekly)
+[![Coverage](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=coverage)](https://github.com/zufardhiyaulhaq/goweekly)
+[![Maintainability Rating](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=sqale_rating)](https://github.com/zufardhiyaulhaq/goweekly)
+[![Quality Gate Status](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=alert_status)](https://github.com/zufardhiyaulhaq/goweekly)
+[![Reliability Rating](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=reliability_rating)](https://github.com/zufardhiyaulhaq/goweekly)
+[![Security Rating](https://sonarqube.zufardhiyaulhaq.com/api/project_badges/measure?project=goweekly&metric=security_rating)](https://github.com/zufardhiyaulhaq/goweekly)
+
 ## Installing the Chart
 
 To install the chart with the release name `my-release` and secret `foo`:

@@ -21,6 +21,7 @@ require (
 	github.com/klauspost/cpuid v1.2.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
+	github.com/norwoodj/helm-docs v1.6.0 // indirect
 	github.com/onsi/ginkgo v1.16.1 // indirect
 	github.com/onsi/gomega v1.11.0 // indirect
 	github.com/shirou/gopsutil v0.0.0-20180427012116-c95755e4bcd7 // indirect
