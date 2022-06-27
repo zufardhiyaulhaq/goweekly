@@ -1,0 +1,49 @@
+apiVersion: v1
+entries:
+  goweekly:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-06-27T21:23:04.441222+07:00"
+    description: Get data from golang news and create Weekly CRDs based on community-operator
+      and push to git datastore
+    digest: 3c8d7f51f04f87af8c4590c3ed3130355ef3b3c60cf585dd875e2cdc8901de83
+    home: https://github.com/zufardhiyaulhaq/goweekly
+    maintainers:
+    - email: zufardhiyaulhaq@gmail.com
+      name: Zufar Dhiyaulhaq
+      url: https://zufardhiyaulhaq.com
+    name: goweekly
+    type: application
+    urls:
+    - goweekly-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-27T21:23:04.440432+07:00"
+    description: Get data from golang news and create Weekly CRDs based on community-operator
+      and push to git datastore
+    digest: 3f9acb9a9c8aaf77cecd19010b685d972d59d89ccbeb05e5b03bf4c0e7bf1fc1
+    home: https://github.com/zufardhiyaulhaq/goweekly
+    maintainers:
+    - email: zufardhiyaulhaq@gmail.com
+      name: Zufar Dhiyaulhaq
+      url: https://zufardhiyaulhaq.com
+    name: goweekly
+    type: application
+    urls:
+    - goweekly-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-06-27T21:23:04.439439+07:00"
+    description: goweekly scrapper
+    digest: f9ae1f08f267032cbacac6a5067f5c0ccc2b6111a6d2093d041cf113b0c1ca52
+    home: https://github.com/zufardhiyaulhaq/goweekly
+    keywords:
+    - weekly
+    - goweekly
+    name: goweekly
+    urls:
+    - goweekly-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-06-27T21:23:04.437976+07:00"
