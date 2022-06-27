@@ -44,7 +44,7 @@ test:
 .PHONY: lint
 lint: 
 	go get github.com/golangci/golangci-lint/cmd/golangci-lint@v1.41.1
-	golangci-lint run --verbose
+	golangci-lint run --verbose --timeout 300s
 
 .PHONY: build
 build:
