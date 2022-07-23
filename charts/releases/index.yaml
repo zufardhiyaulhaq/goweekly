@@ -3,10 +3,10 @@ entries:
   goweekly:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2022-07-23T13:21:19.539372+07:00"
+    created: "2022-07-23T15:20:29.881468+07:00"
     description: Get data from golang news and create Weekly CRDs based on community-operator
       and push to git datastore
-    digest: a089c202d619ea2aaa80848350cc899b7e9f4f7b5908c0303a4103881db4e9f2
+    digest: e0837a271466fe008df36e61ca0e0f0566a55743ef58478cae6ff1d5dedd2647
     home: https://github.com/zufardhiyaulhaq/goweekly
     maintainers:
     - email: zufardhiyaulhaq@gmail.com
@@ -19,7 +19,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-07-23T13:21:19.538854+07:00"
+    created: "2022-07-23T15:20:29.880587+07:00"
     description: Get data from golang news and create Weekly CRDs based on community-operator
       and push to git datastore
     digest: 3c8d7f51f04f87af8c4590c3ed3130355ef3b3c60cf585dd875e2cdc8901de83
@@ -35,7 +35,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-07-23T13:21:19.538411+07:00"
+    created: "2022-07-23T15:20:29.879924+07:00"
     description: Get data from golang news and create Weekly CRDs based on community-operator
       and push to git datastore
     digest: 3f9acb9a9c8aaf77cecd19010b685d972d59d89ccbeb05e5b03bf4c0e7bf1fc1
@@ -51,7 +51,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-07-23T13:21:19.537858+07:00"
+    created: "2022-07-23T15:20:29.879353+07:00"
     description: goweekly scrapper
     digest: f9ae1f08f267032cbacac6a5067f5c0ccc2b6111a6d2093d041cf113b0c1ca52
     home: https://github.com/zufardhiyaulhaq/goweekly
@@ -62,4 +62,4 @@ entries:
     urls:
     - goweekly-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-23T13:21:19.537287+07:00"
+generated: "2022-07-23T15:20:29.878667+07:00"
