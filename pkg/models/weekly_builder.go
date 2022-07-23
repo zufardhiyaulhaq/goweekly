@@ -3,7 +3,7 @@ package models
 import (
 	"strings"
 
-	communityv1alpha1 "github.com/cloudnative-id/community-operator/pkg/apis/community/v1alpha1"
+	communityv1alpha1 "github.com/zufardhiyaulhaq/community-operator-v2/api/v1alpha1"
 )
 
 type WeeklySpecBuilder struct {
@@ -11,32 +11,32 @@ type WeeklySpecBuilder struct {
 }
 
 func (ws WeeklySpecBuilder) SetName(name string) WeeklySpecBuilder {
-	ws.Spec.Name = strings.ReplaceAll(name, "#", "")
+	ws.Spec.Spec.Name = strings.ReplaceAll(name, "#", "")
 	return ws
 }
 
 func (ws WeeklySpecBuilder) SetDate(date string) WeeklySpecBuilder {
-	ws.Spec.Date = date
+	ws.Spec.Spec.Date = date
 	return ws
 }
 
-func (ws WeeklySpecBuilder) SetImage(image string) WeeklySpecBuilder {
-	ws.Spec.Image = image
+func (ws WeeklySpecBuilder) SetImageUrl(imageUrl string) WeeklySpecBuilder {
+	ws.Spec.Spec.ImageUrl = imageUrl
 	return ws
 }
 
-func (ws WeeklySpecBuilder) SetCommunity(community string) WeeklySpecBuilder {
+func (ws WeeklySpecBuilder) SetCommunity(community []string) WeeklySpecBuilder {
 	ws.Spec.Community = community
 	return ws
 }
 
 func (ws WeeklySpecBuilder) SetTags(tags []string) WeeklySpecBuilder {
-	ws.Spec.Tags = tags
+	ws.Spec.Spec.Tags = tags
 	return ws
 }
 
-func (ws WeeklySpecBuilder) SetArticles(articles []communityv1alpha1.ArticleSpec) WeeklySpecBuilder {
-	ws.Spec.Articles = articles
+func (ws WeeklySpecBuilder) SetArticles(articles []communityv1alpha1.WeeklySpec_Article) WeeklySpecBuilder {
+	ws.Spec.Spec.Articles = articles
 	return ws
 }
 
@@ -74,7 +74,7 @@ func (w WeeklyBuilder) Build() (Weekly, error) {
 func NewWeeklyBuilder() WeeklyBuilder {
 	return WeeklyBuilder{
 		Weekly: Weekly{
-			APIVersion: "community.io/v1alpha1",
+			APIVersion: "community.zufardhiyaulhaq.com/v1alpha1",
 			Kind:       "Weekly",
 		},
 	}

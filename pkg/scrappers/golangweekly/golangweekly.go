@@ -5,7 +5,7 @@ import (
 	"regexp"
 
 	"github.com/PuerkitoBio/goquery"
-	communityv1alpha1 "github.com/cloudnative-id/community-operator/pkg/apis/community/v1alpha1"
+	communityv1alpha1 "github.com/zufardhiyaulhaq/community-operator-v2/api/v1alpha1"
 	"github.com/zufardhiyaulhaq/goweekly/pkg/scrappers"
 )
 
@@ -43,8 +43,8 @@ func (g GolangWeekly) GetName() (string, error) {
 	return name, nil
 }
 
-func (g GolangWeekly) GetArticles() ([]communityv1alpha1.ArticleSpec, error) {
-	var articles []communityv1alpha1.ArticleSpec
+func (g GolangWeekly) GetArticles() ([]communityv1alpha1.WeeklySpec_Article, error) {
+	var articles []communityv1alpha1.WeeklySpec_Article
 
 	response, err := http.Get(g.URL)
 	if err != nil {
@@ -60,7 +60,7 @@ func (g GolangWeekly) GetArticles() ([]communityv1alpha1.ArticleSpec, error) {
 
 	document.Find("div#content").Each(func(i int, div *goquery.Selection) {
 		div.Find("span.mainlink").Each(func(i int, span *goquery.Selection) {
-			var article communityv1alpha1.ArticleSpec
+			var article communityv1alpha1.WeeklySpec_Article
 			article.Title = span.Find("a").Text()
 			article.Type = "News"
 			article.Url, _ = span.Find("a").Attr("href")

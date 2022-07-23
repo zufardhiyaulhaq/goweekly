@@ -79,7 +79,7 @@ func main() {
 		SetName(name).
 		SetDate(utils.GetDate()).
 		SetCommunity(settings.WeeklyCommunity).
-		SetImage(settings.WeeklyImage).
+		SetImageUrl(settings.WeeklyImage).
 		SetTags(settings.WeeklyTags).
 		SetArticles(artiles).
 		Build()

@@ -1,7 +1,7 @@
 package models
 
 import (
-	communityv1alpha1 "github.com/cloudnative-id/community-operator/pkg/apis/community/v1alpha1"
+	communityv1alpha1 "github.com/zufardhiyaulhaq/community-operator-v2/api/v1alpha1"
 	"gopkg.in/yaml.v2"
 )
 

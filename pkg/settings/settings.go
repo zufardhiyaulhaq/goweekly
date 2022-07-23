@@ -11,7 +11,7 @@ type Settings struct {
 	GithubRepositoryPath string   `required:"true" envconfig:"GITHUB_REPOSITORY_PATH"`
 	GithubBranch         string   `required:"true" envconfig:"GITHUB_BRANCH"`
 	WeeklyNamespace      string   `required:"true" envconfig:"WEEKLY_NAMESPACE"`
-	WeeklyCommunity      string   `required:"true" envconfig:"WEEKLY_COMMUNITY"`
+	WeeklyCommunity      []string `required:"true" envconfig:"WEEKLY_COMMUNITY"`
 	WeeklyTags           []string `required:"true" envconfig:"WEEKLY_TAGS"`
 	WeeklyImage          string   `required:"true" envconfig:"WEEKLY_IMAGE"`
 }

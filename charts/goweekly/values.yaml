@@ -3,12 +3,12 @@ cronSchedule: "0 8 * * 0"
 
 image:
   repository: "zufardhiyaulhaq/goweekly"
-  tag: "v1.1.0"
+  tag: "v2.0.0"
 
 secret: ""
 
 weekly:
-  community: "Golang Indonesia Community"
+  community: "golang"
   tags: "weekly,golang"
-  namespace: "golang-community"
+  namespace: "community"
   image_url: "https://trungtq.com/wp-content/uploads/2018/12/GO-3.png"

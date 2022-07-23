@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/zufardhiyaulhaq/goweekly/pkg/models"
 
-	communityv1alpha1 "github.com/cloudnative-id/community-operator/pkg/apis/community/v1alpha1"
+	communityv1alpha1 "github.com/zufardhiyaulhaq/community-operator-v2/api/v1alpha1"
 )
 
 func TestWeeklyFilenameBuilder(t *testing.T) {
@@ -22,13 +22,15 @@ func TestWeeklySpecBuilder(t *testing.T) {
 	spec, err := models.NewWeeklySpecBuilder().
 		SetName("foo").
 		SetDate("bar").
-		SetImage("foo").
-		SetCommunity("bar").
+		SetImageUrl("foo").
+		SetCommunity([]string{
+			"bar",
+		}).
 		SetTags([]string{
 			"foo",
 			"bar",
 		}).
-		SetArticles([]communityv1alpha1.ArticleSpec{
+		SetArticles([]communityv1alpha1.WeeklySpec_Article{
 			{
 				Title: "foo",
 				Url:   "bar",
@@ -43,24 +45,28 @@ func TestWeeklySpecBuilder(t *testing.T) {
 		).Build()
 	assert.NoError(t, err)
 	assert.Equal(t, communityv1alpha1.WeeklySpec{
-		Name:      "foo",
-		Date:      "bar",
-		Image:     "foo",
-		Community: "bar",
-		Tags: []string{
-			"foo",
+		Community: []string{
 			"bar",
 		},
-		Articles: []communityv1alpha1.ArticleSpec{
-			{
-				Title: "foo",
-				Url:   "bar",
-				Type:  "foo",
+		Spec: communityv1alpha1.WeeklySpec_Spec{
+			Name:     "foo",
+			Date:     "bar",
+			ImageUrl: "foo",
+			Tags: []string{
+				"foo",
+				"bar",
 			},
-			{
-				Title: "foo",
-				Url:   "bar",
-				Type:  "foo",
+			Articles: []communityv1alpha1.WeeklySpec_Article{
+				{
+					Title: "foo",
+					Url:   "bar",
+					Type:  "foo",
+				},
+				{
+					Title: "foo",
+					Url:   "bar",
+					Type:  "foo",
+				},
 			},
 		},
 	}, spec)
@@ -71,24 +77,28 @@ func TestWeeklyBuilder(t *testing.T) {
 		SetName("foo").
 		SetNamespace("bar").
 		SetSpec(communityv1alpha1.WeeklySpec{
-			Name:      "foo",
-			Date:      "bar",
-			Image:     "foo",
-			Community: "bar",
-			Tags: []string{
-				"foo",
+			Community: []string{
 				"bar",
 			},
-			Articles: []communityv1alpha1.ArticleSpec{
-				{
-					Title: "foo",
-					Url:   "bar",
-					Type:  "foo",
+			Spec: communityv1alpha1.WeeklySpec_Spec{
+				Name:     "foo",
+				Date:     "bar",
+				ImageUrl: "foo",
+				Tags: []string{
+					"foo",
+					"bar",
 				},
-				{
-					Title: "foo",
-					Url:   "bar",
-					Type:  "foo",
+				Articles: []communityv1alpha1.WeeklySpec_Article{
+					{
+						Title: "foo",
+						Url:   "bar",
+						Type:  "foo",
+					},
+					{
+						Title: "foo",
+						Url:   "bar",
+						Type:  "foo",
+					},
 				},
 			},
 		}).
